@@ -1,0 +1,12 @@
+python-dotenv
+hf-xet
+timm
+datasets
+huggingface_hub
+pdf2image # Remember to install poppler for pdf2image to work: https://pdf2image.readthedocs.io/en/latest/installation.html
+transformers
+bitsandbytes
+peft
+tensorboardX
+torchvision
+sentencepiece
